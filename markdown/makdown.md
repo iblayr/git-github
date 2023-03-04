@@ -34,6 +34,15 @@ Lista de tarefas:
 - [ ] Estudar Continuous Integration e Continuous Delivery com Azure DevOps
 
 
+***
+
+# Tabelas
+
+Nome | Cargo | Empresa
+--- | --- | ---
+satya nadella | CEO | Microsoft
+Andy Jassy | CEO | Amazon
+Tim Cook | CEO | Apple
 
 ***
 
